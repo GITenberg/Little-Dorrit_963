@@ -1,6 +1,7 @@
-LITTLE DORRIT
-
-By Charles Dickens
+= Little Dorrit
+Charles Dickens
+v0.0.1
+:TOC:
 
 
 
