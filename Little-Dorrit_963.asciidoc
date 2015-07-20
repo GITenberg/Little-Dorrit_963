@@ -75,11 +75,11 @@ London May 1857
 
 
 
-# BOOK THE FIRST: POVERTY
+== BOOK THE FIRST: POVERTY
 
 
 
-## CHAPTER 1. Sun and Shadow
+=== CHAPTER 1. Sun and Shadow
 
 
 Thirty years ago, Marseilles lay burning in the sun, one day.
@@ -335,18 +335,24 @@ child in his arms, and dictating the words with a kiss.
 Her innocent face looked back so brightly over his shoulder, as he
 walked away with her, singing her the song of the child's game:
 
-     'Who passes by this road so late?
-          Compagnon de la Majolaine!
-     Who passes by this road so late?
-          Always gay!'
+[verse]
+____
+'Who passes by this road so late?
+    Compagnon de la Majolaine!
+Who passes by this road so late?
+    Always gay!'
+____
 
 that John Baptist felt it a point of honour to reply at the grate, and
 in good time and tune, though a little hoarsely:
 
-     'Of all the king's knights 'tis the flower,
-         Compagnon de la Majolaine!
-     Of all the king's knights 'tis the flower,
-          Always gay!'
+[verse]
+____
+'Of all the king's knights 'tis the flower,
+   Compagnon de la Majolaine!
+Of all the king's knights 'tis the flower,
+    Always gay!'
+____
 
 Which accompanied them so far down the few steep stairs, that the
 prison-keeper had to stop at last for his little daughter to hear the
@@ -701,7 +707,7 @@ that it scarcely whispered of the time when it shall give up its dead.
 
 
 
-## CHAPTER 2 Fellow Travellers
+=== CHAPTER 2 Fellow Travellers
 
 
 'No more of yesterday's howling over yonder to-day, Sir; is there?'
@@ -1308,7 +1314,7 @@ another, move all we restless travellers through the pilgrimage of life.
 
 
 
-## CHAPTER 3. Home
+=== CHAPTER 3. Home
 
 
 It was a Sunday evening in London, gloomy, close, and stale. Maddening
@@ -1913,7 +1919,7 @@ all.
 
 
 
-## CHAPTER 4. Mrs Flintwinch has a Dream
+=== CHAPTER 4. Mrs Flintwinch has a Dream
 
 
 When Mrs Flintwinch dreamed, she usually dreamed, unlike the son of her
@@ -2057,7 +2063,7 @@ Mrs Flintwinch thanked him and crept into bed.
 
 
 
-## CHAPTER 5. Family Affairs
+=== CHAPTER 5. Family Affairs
 
 
 As the city clocks struck nine on Monday morning, Mrs Clennam was
